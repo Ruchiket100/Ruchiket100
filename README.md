@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ruchiket100.github.io/one_page_portfolio/](https://ruchiket100.github.io/one_page_portfolio/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Ruchiket](https://hashnode.com/@Ruchiket)
+- 📝 I  write articles on [https://hashnode.com/@Ruchiket](https://hashnode.com/@Ruchiket)
 
 - 📫 How to reach me **ruchiketborse1@gmail.com**
 
