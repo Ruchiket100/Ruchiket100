@@ -1,16 +1,6 @@
 <h1 align="center">Hey 👋, Ruchiket Here</h1>
 <p align="left"> <a href="https://twitter.com/borseruchiket" target="blank"><img src="https://img.shields.io/twitter/follow/borseruchiket?logo=twitter&style=for-the-badge" alt="borseruchiket" /></a> </p>
 
-- 🔭 I’m currently working on [Travel Website with animations](https://github.com/Ruchiket100/websiteVanilla)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Freelance work**
-
-- 👨‍💻 All of my projects are available at [https://ruchiket100.github.io/one_page_portfolio/](https://ruchiket100.github.io/one_page_portfolio/)
-
-- 📝 I  write articles on [https://hashnode.com/@Ruchiket](https://hashnode.com/@Ruchiket)
-
 - 📫 How to reach me **ruchiketborse1@gmail.com**
 
 - ⚡ Fun fact **I also like design**
